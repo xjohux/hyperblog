@@ -17,3 +17,19 @@ body{
 h1{
     font-size: 20px;
 }
+
+#cabecera{
+    background: #21E996;
+    color: aliceblue;    
+    font-weight: bold;
+    box-shadow: -10px 3px 18px 3px rgba(140, 166, 166, 0.64);
+    margin: 0;
+    padding: .5em;
+    font-size: 1.2em;
+}
+
+#tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: .8em;
+}
