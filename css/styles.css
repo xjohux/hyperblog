@@ -1,5 +1,19 @@
 body{
+    color: #7FD4CC;
     text-align: center;
-    font-family: Arial;
-    color: deeppink;
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #99A4A3;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 20px;
 }
